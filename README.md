@@ -32,6 +32,6 @@ Para criação da infraestrutura como código você precisará de algumas pré c
 - Região: us-east-1
 - Acesso: público (apenas para desenvolvimento) via SG rds-public-sg
 - VPC: default
-- Subnets: default (db subnet group)
-- Security Group: 3306/tcp (ajuste para faixas internas)
+- Subnets: default 
+- Security Group: 3306/tcp
 - Alarms: CPU >= 70% (SNS rds-alerts-topic)
