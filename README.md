@@ -6,12 +6,15 @@ Nesta fase do projeto decidimos migrar o banco de dados de MongoDB para o AWS RD
 Dito isso aqui estão nossos modelos de dados.
 
 - Modelo concentual:
+  
 ![Modelo conceitual de banco de dados ](./doc/images/conceptual-model.png)
 
 - Modelo lógico:
+  
 ![Modelo lógico de banco de dados´](./doc/images/logical-model.png)
 
 - Modelo físico:
+  
 ![Modelo físico de banco de dados](./doc/images/physical-model.png)
 
 
