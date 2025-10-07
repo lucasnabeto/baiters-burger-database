@@ -1,5 +1,6 @@
 # baiters-burger-database
 
+
 ## Visão geral
 Nesta fase do projeto decidimos migrar o banco de dados de MongoDB para o AWS RDS MySQL, primeiro porque queríamos um banco de dados auto-gerenciado com um custo baixo e com pouco requisito computacional, pois não temos dimensão o suficiente para saber como será preciso escalar o banco ainda, se vamos escalar verticalmente ou horizontalmente, a princípio setamos uma instancia db.t3.micro com alertas de performance com um SNS para avisar por e-mail, e assim analisar os dados para nos basearmos se continuamos com um RDS MySQL, se continuaremos com relacional ou talvez até migrar para um Amazon Aurora, dependendo da necessidade. 
 
