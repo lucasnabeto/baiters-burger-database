@@ -5,7 +5,7 @@ Nesta fase do projeto decidimos migrar o banco de dados de MongoDB para o AWS RD
 
 Dito isso aqui estão nossos modelos de dados.
 
-- Modelo concentual:
+- Modelo conceitual:
   
 ![Modelo conceitual de banco de dados ](./doc/images/conceptual-model.png)
 
